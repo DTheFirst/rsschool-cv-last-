@@ -17,3 +17,13 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * **Markdown**
 * **Python(basic)**
 
+## ***Code Example***
+```
+cout<<"Hello World!";
+```
+
+## ***Experience***
+***1 year of programming at the University***
+
+## ***Education***
+***Vitebsk State Technological University*** : *Bussiness - Anlyst and Sowtware - Developer*
